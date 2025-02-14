@@ -10,13 +10,6 @@ I've been working in the catering industry for a long time (since 15 y.o). I rec
 * ✉️  You can contact me at [https://t.me/obi1gogh](mailto:https://t.me/obi1gogh)
 * 🧠  I'm learning automatation QA
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-
 
 ### Socials
 
